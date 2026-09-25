@@ -2,8 +2,8 @@
 
 ## Faz 0 — Temel ve doğrulama
 
-- [x] Expo + React Native + TypeScript projesi
-- [x] Ana ekran ve dört modüllü günlük akış
+- [ ] Expo + React Native + TypeScript projesi
+- [ ] Ana ekran ve dört modüllü günlük akış
 - [x] Ürün kapsamı ve sınırları
 - [ ] 2. sınıf içerik rubriği
 - [ ] Veli bilgilendirme/onay metni
